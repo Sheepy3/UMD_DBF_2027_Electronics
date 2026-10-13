@@ -269,6 +269,12 @@
 		(layers "F.Cu" "F.Mask")
 		(uuid "e845eecd-1c3c-47e6-b542-fc6fb58a479c")
 	)
+	(pad "3" smd rect
+		(at 0 0)
+		(size 1.5 3.3)
+		(layers "B.Cu" "B.Mask")
+		(uuid "3ff8c977-b08e-46f7-82bc-8149566f5385")
+	)
 	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_Cree-XP.step"
 		(offset
